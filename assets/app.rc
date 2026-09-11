@@ -1,0 +1,2 @@
+// gpui(Windows)는 실행 파일의 ICON 리소스 ID 1을 창/작업 표시줄 아이콘으로 읽는다.
+1 ICON "icon.ico"
